@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7&random=false&width=435&lines=Hi%2C+I+am+Dedsec995;Welcome+to+my+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7&random=false&width=435&lines=Hi%2C+I+am+Akshat;Welcome+to+my+World)](https://git.io/typing-svg)
 
 # 💫 About Me:
 👋 Hi, I’m @Akshat Shah<br>👀 I’m interested in softwares, travels, hiking, cricket<br>🌱 I’m currently pursuing Master's in CS at SUNY Binghamton<br>💞️ I’m looking for New Grad role 2024<br>📫 connect with me via mail: ashah85@binghamton.edu
