@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7&random=false&width=435&lines=Hi%2C+I+am+Akshat;Welcome+to+my+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7&random=false&width=435&lines=Hi%2C+I+am+Akshat;I+am+a+Software+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👋 Hi, I’m @Akshat Shah<br>👀 I’m interested in software, travels, hiking, and cricket<br>🌱 I’m currently pursuing a Master's in CS at SUNY Binghamton<br>💞️ I’m looking for SDE/SDET roles 2024<br>📫 connect with me via mail: ashah85@binghamton.edu
+👋 Hi, I’m @Akshat Shah<br>👀 I’m interested in software, travels, hiking, and chess<br>🌱 I’m a recent graduate of Master's in CS at SUNY Binghamton<br>💞️ I’m looking for SDE/SDET roles 2025<br>📫 connect with me via mail: ashah85@binghamton.edu
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat.shah24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatnshah) 
