@@ -18,4 +18,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Visitor Count](https://profile-counter.glitch.me/anshah85/count.svg)
+![](https://komarev.com/ghpvc/?username=anshah85)
